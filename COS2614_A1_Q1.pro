@@ -8,6 +8,7 @@
 #    Student : 51565579
 #    Assignment 1 Question 1
 #    Unique assignment no: 576435
+#    GitHub: https://github.com/JGPorteous/COS2614_A1_Q1
 # */
 
 QT       += core gui
